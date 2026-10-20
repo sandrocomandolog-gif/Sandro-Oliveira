@@ -1,0 +1,16 @@
+index.html
+css/
+  style.css
+js/
+  dados.js
+  storage.js
+  dashboard.js
+  app.js
+pages/
+  agregados.html
+  preventivas.html
+  rastreadores.html
+  ocorrencias.html
+  combustivel.html
+  historico.html
+  relatorios.html
